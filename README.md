@@ -78,7 +78,7 @@
     <h1>Junk Wranglers</h1>
     <p>Fast Junk Removal in Bozeman & Gallatin Valley</p>
 
-    <a class="button" href="tel:YOURNUMBER">
+    <a class="button" href="tel:406-970-3537">
       Call Now
     </a>
   </div>
